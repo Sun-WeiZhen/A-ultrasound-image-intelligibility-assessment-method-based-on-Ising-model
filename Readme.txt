@@ -1,10 +1,11 @@
 
 
-FIAMº¯ÊıÓÃÓÚ¶Ô³¬ÉùÍ¼ÏñµÄÇåÎú¶È½øĞĞ¿ìËÙÆÀ¹À£¬Í¼ÏñÔ½ÇåÎú£¬ÊıÖµÔ½´ó¡£¸ÃÖµÔÙ£¨0£¬1.2£©Ö®¼ä¡£
 
-ÄãÔÚÑéÖ¤Õâ¸ö´úÂëµÄÊ±ºòÖ»Òª½«´úÂëÂ·¾¶ĞŞ¸ÄÎªÄãµÄÍ¼ÏñËùÔÚµÄÂ·¾¶¾ÍĞĞ¡£
+FIAMå‡½æ•°ç”¨äºå¯¹è¶…å£°å›¾åƒçš„æ¸…æ™°åº¦è¿›è¡Œå¿«é€Ÿè¯„ä¼°ï¼Œå›¾åƒè¶Šæ¸…æ™°ï¼Œæ•°å€¼è¶Šå¤§ã€‚è¯¥å€¼å†ï¼ˆ0ï¼Œ1.2ï¼‰ä¹‹é—´ã€‚
 
-Ö±½ÓÔËĞĞ¡£
+ä½ åœ¨éªŒè¯è¿™ä¸ªä»£ç çš„æ—¶å€™åªè¦å°†ä»£ç è·¯å¾„ä¿®æ”¹ä¸ºä½ çš„å›¾åƒæ‰€åœ¨çš„è·¯å¾„å°±è¡Œã€‚
+
+ç›´æ¥è¿è¡Œã€‚
 
 FIAM function is used to evaluate the definition of ultrasound image quickly. 
 
@@ -24,8 +25,8 @@ Direct operation.
 
 
 
-Visualization_of_intelligibility º¯Êı¿ÉÒÔÊµÏÖ¶Ô³¬ÉùÍ¼Ïñ½øĞĞÏñËØ¼¶ÆÀ¹ÀºÍ¿ÉÊÓ»¯¡£
-Ö±½ÓÔËĞĞ¡£
+Visualization_of_intelligibility å‡½æ•°å¯ä»¥å®ç°å¯¹è¶…å£°å›¾åƒè¿›è¡Œåƒç´ çº§è¯„ä¼°å’Œå¯è§†åŒ–ã€‚
+ç›´æ¥è¿è¡Œã€‚
 
 Visualization_ Of_ The intelligibility function can realize the pixel level evaluation and visualization of ultrasound images.
 
@@ -34,6 +35,6 @@ Direct operation.
 
 
 
-IM-0018ÊÇÎÒÃÇÌá¹©µÄÑéÖ¤Êı¾İ
+IM-0018æ˜¯æˆ‘ä»¬æä¾›çš„éªŒè¯æ•°æ®
 
 Im-0018 is the validation data provided by us
